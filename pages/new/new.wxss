@@ -1,0 +1,8 @@
+.anjian1{
+  margin: 200px;
+  width: 100%;
+  color: rgba(41, 60, 228, 0.411);
+}
+.anjian2{
+  margin: 0px;
+}

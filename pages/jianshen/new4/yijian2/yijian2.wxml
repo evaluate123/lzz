@@ -1,0 +1,95 @@
+<!--pages/jianshen/new4/yijian2/yijian2.wxml-->
+<text>燃脂健身.全身激活</text>
+<view>
+<text>一.热身</text>
+<text>动作一.站姿体侧屈（该动作左右各10次）</text>
+<image src="/images/9.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.自然站立，双脚微微分开，挺胸收腹；双臂上举至头顶，掌心相对，想象手中抱着一个球</view>
+<view>2.身体向一侧侧屈，略作停顿，回到起始位置；然后向另一侧侧屈</view>
+
+
+
+<view class="two">
+<text>动作二.前后交叉小跳（该动作持续15-25s）</text>
+<image src="/images/10.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.双脚前后交替跳跃，双臂屈肘摆臂</view>
+<view>2.跳起时用腹部的力量左右小幅度转动身体</view>
+<view>3.动作尽可能轻松流畅</view>
+
+
+
+<view class="three">
+<text>动作三.弓步后转体（该动作左右各5-10组）</text>
+<image src="/images/11.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.双脚并拢，自然站立</view>
+<view>2.向前迈一侧腿呈弓步，前腿小腿垂直于地面，大腿平行于地面，后腿脚尖朝前与膝关节在同一方向</view>
+<view>3.双臂伸直前平举于胸前，掌心相对，向前腿一侧转体，打开手臂；略作停顿，然后还原到胸前，回到起始状态；换腿向前迈出，做另一侧的转体
+呼吸</view>
+
+
+
+
+<view>二.燃脂</view>
+<view class="four">
+<text>动作四.抱脚尖蹲起(该组动作共做15-20组）</text>
+<image src="/images/12.1.png"></image>
+<image src="/images/12.2.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.下蹲姿势，将双手手指放在脚尖下方，保持稳定</view>
+<view>2.慢慢抬起臀部直至最高处，膝盖要尽量伸直，但不超伸锁死，大腿后侧有拉伸感，保持1秒，下蹲，继续循环</view>
+
+
+
+<view class="five">
+<text>动作五.箱式深蹲（该组动作共做10-15组）</text>
+<image src="/images/13.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.自然站立，双脚分开与肩同宽，椅子放于身后</view>
+<view>2.臀部缓慢向后推并向下蹲，蹲至臀部触碰椅子边缘，同时手臂前平举；略作停顿后，臀部发力站起还原至起始状态</view>
+<view>3.坐在椅子边缘时，膝盖不要超过脚尖</view>
+<view>4.腰腹始终收紧，坐下时只有下肢稍放松</view>
+
+
+
+
+<view class="eight">
+<text>动作六.推墙高抬腿（该动作左右腿各20次）</text>
+<image src="/images/5.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.手扶墙壁倾斜站立，收紧腰腹</view>
+<view>2.交替抬腿，上半身尽可能保持稳定</view>
+
+
+
+<view class="tip">将以上燃脂部分动作共做两组</view>
+<view>三.拉伸</view>
+
+
+
+<view class="nine">
+<text>动作七：勾腿跳（该组动作共做15-20s）</text>
+<image src="/images/16.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.背部挺直，目视前方，双手放在臀部位置</view>
+<view>2.保持身体稳定，快速交替勾腿，每次都要触碰到双手</view>
+
+
+
+<view class="ten">
+<text>动作八.大腿前侧拉伸（左右腿各10-15s）</text>
+<image src="/images/8.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.自然站立，勾起左脚，右手握住左脚脚踝，收紧腹部</view>
+<view>2.右手发力向上拉，髋部前顶，直至右侧大腿前侧有明显牵拉感，保持住</view>
+

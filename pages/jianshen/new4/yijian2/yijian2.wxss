@@ -1,0 +1,28 @@
+.two{
+  margin-top: 10px
+}
+.three{
+  margin-top: 10px
+}
+.four{
+  margin-top: 10px
+}
+.five{
+  margin-top: 10px;
+}
+
+.eight{
+  margin-top: 10px
+}
+.tip{
+  text-align: center;
+  margin-top: 10px;
+  color: rgb(35, 127, 233);
+  font-size:20px;
+}
+.nine{
+  margin-top: 10px
+}
+.ten{
+  margin-top: 10px
+}

@@ -1,0 +1,93 @@
+<!--pages/jianshen/new4/yijian1/yijian1.wxml-->
+<text>室内健身.燃脂</text>
+<view>一.热身</view>
+<view>
+<text>动作一.髋关节环绕（该运动左右腿各8次）</text>
+<image src="/images/1.png"></image>
+<text>动作要领：</text>
+<text>1.自然站立，双手叉腰，双脚微微分开
+      2.将一侧腿抬起，外展，再落回站立位；略作停顿后做另一侧腿的外展
+      3.第二个循环时将一侧腿保持外展的状态下抬起，内收，再落回站立位；略作停顿后做另一侧腿的内收
+      4.控制动作速度，上身保持稳定</text>
+</view>
+
+
+
+<view class="two">
+<text >动作二.屈臂向前肩关节环绕(该动作进行10-15次）</text>
+<image src="/images/2.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.身体站直，双脚打开与肩同宽，保持身体稳定，手指虚握，大拇指点在肩部上</view>
+<view>2.屈臂，肩膀向前做画圆动作，幅度越大越好</view>
+
+
+<view class="three">
+<text>动作三.平板支撑(该动作进行大约20s)</text>
+<image src="/images/3.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.屈肘，小臂与前脚掌撑地，耳、肩、髋、膝、踝呈一条直线</view>
+<view>2.手肘朝脚的方向用力， 脚尖用力向前勾起，与地面摩擦力对抗，小臂按紧地面</view>
+
+
+
+
+<view>二.燃脂</view>
+<view class="four">
+<text>动作四.深蹲交替提膝(该动作左右腿各进行12次)</text>
+<image src="/images/4.1.png"></image>
+<image src="/images/4.2.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.双脚比肩稍宽站立，屈肘，双手放于胸前</view>
+<view>2.屈髋下蹲至大腿与地面平行，下蹲时膝盖与脚尖方向一致</view>
+<view>3.站起时重心位于脚掌外侧，用力绷紧支撑腿一侧的臀部；另一侧腿提膝至最高点，身体同时向提膝一侧扭转</view>
+<view>4.双腿交替提膝</view>
+
+
+
+<view class="five">
+<text>动作五.推墙高抬腿（该动作左右腿各20次）</text>
+<image src="/images/5.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.手扶墙壁倾斜站立，收紧腰腹</view>
+<view>2.交替抬腿，上半身尽可能保持稳定</view>
+
+
+
+<view class="six">
+<text>动作六.俯身慢速跨步登山(该动作左右腿各20次)</text>
+<image src="/images/6.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.俯撑在瑜伽垫上，双手与肩同宽</view>
+<view>2.挺直背部，收紧核心，一侧脚迈到同侧手的旁边</view>
+<view>3.回到俯撑状态，迈另一侧脚</view>
+
+
+<view class="tip">将以上燃脂部分动作共做两组</view>
+
+
+
+
+<view>三.拉伸</view>
+<view class="seven">
+<text>动作七.全身伸展(上下共做6-10次）</text>
+<image src="/images/7.1.png"></image>
+<image src="/images/7.2.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.俯低身体，双手交叉</view>
+<view>2.起身的同时双手划一个最大的圆举至头顶</view>
+
+<view class="eight">
+<text>动作八.大腿前侧拉伸（左右腿各10-15s）</text>
+<image src="/images/8.png"></image>
+<text>动作要领：</text>
+</view>
+<view>1.自然站立，勾起左脚，右手握住左脚脚踝，收紧腹部</view>
+<view>2.右手发力向上拉，髋部前顶，直至右侧大腿前侧有明显牵拉感，保持住</view>
+
+

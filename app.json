@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/new/new",
+   
+    "pages/jianshen/new4/new4",
+    "pages/jianshen/new4/yijian1/yijian1",
+    "pages/jianshen/new4/yijian2/yijian2"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

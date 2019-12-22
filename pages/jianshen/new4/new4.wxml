@@ -1,0 +1,12 @@
+<view   class="hum">相对湿度</view>
+
+<canvas class = "canvas" id="chart1"
+canvas-id="humidity"></canvas>
+
+
+<view class="tem">温度</view>
+
+<canvas class = "canvas" id="chart3"
+canvas-id="tempe"></canvas>
+<button  class="yijian" bindtap="tiaozhuan3" >燃脂训练方案1(适用于温度20℃以上）</button>
+<button  class="yijian1" bindtap="tiaozhuan4" >燃脂训练方案2（适用于温度20℃以下）</button>

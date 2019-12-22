@@ -1,0 +1,13 @@
+/* pages/jianshen/new4/new4.wxss */
+.yijian{
+  color: royalblue;
+margin:20px}
+.yijian1{
+  color: royalblue
+}
+.hum{
+  text-align: center;
+}
+.tem{
+  text-align: center;
+}
